@@ -1,5 +1,5 @@
 {
-  "name": "servicebot-billing-settings-embed",
+  "name": "@eservices/servicebot-billing-settings-embed",
   "version": "0.2.75",
   "dependencies": {
     "currency-symbol-map": "^4.0.4",
